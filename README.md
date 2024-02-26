@@ -1,5 +1,7 @@
 # Healthcare-Documentation-Repository
 
+![_testing-blog_resources_blog_images-2018-06-08-Value-based-Care png](https://github.com/harshitstark13/Healthcare-Documentation-Repository/assets/95651978/4c8f5840-2d09-4238-aac8-d7de46f3cedf)
+
 ## About NLP
 
 Natural Language Processing (NLP) is a field of artificial intelligence that focuses on the interaction between computers and humans through natural language. It involves tasks such as text classification, sentiment analysis, machine translation, and more. Data cleaning is a crucial initial step in NLP projects to prepare the text data for analysis and modeling.
