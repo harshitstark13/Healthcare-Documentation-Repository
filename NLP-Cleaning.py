@@ -198,6 +198,28 @@ data = {
 # Create DataFrame
 df = pd.DataFrame(data)
 
+# Create WordCloud
+import pandas as pd
+from wordcloud import WordCloud
+import matplotlib.pyplot as plt
+
+# Read the CSV file
+df = pd.read_csv('/content/cleaned_file.csv')
+
+# Combine all text data into a single string
+text = ' '.join(df['description'].dropna())  # Replace 'description' with the column containing text data
+
+# Generate word cloud
+wordcloud = WordCloud(width=800, height=400, background_color='white').generate(text)
+
+# Display the word cloud using matplotlib
+plt.figure(figsize=(10, 8))
+plt.imshow(wordcloud, interpolation='bilinear')
+plt.title('Word Cloud')
+plt.axis('off')
+plt.show()
+
+
 # Display the DataFrame
 print(df)
 
