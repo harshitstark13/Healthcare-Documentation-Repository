@@ -50,11 +50,6 @@ After applying the NLP text cleaning methods, the cleaned text data is stored in
 
 These NLP cleaning methods collectively help transform raw text data into a clean, structured format suitable for various NLP tasks, such as text classification, sentiment analysis, and topic modeling. By removing noise, standardizing text formats, and extracting meaningful information, these preprocessing techniques lay the foundation for accurate and insightful text analysis.
 
-
-## Additional Assignments
-
-The notebook also includes additional assignments for further exploration and understanding of NLP data cleaning techniques. These assignments involve adding regular expressions for text cleaning and experimenting with CountVectorizer parameters to customize the text processing pipeline.
-
 ## Usage
 
 To use this notebook, simply clone the repository and run the `NLP-Cleaning.ipynb` notebook in a Jupyter environment. Make sure to install the necessary libraries listed in the notebook's imports section.
@@ -66,12 +61,6 @@ To use this notebook, simply clone the repository and run the `NLP-Cleaning.ipyn
 - pandas
 - nltk
 - scikit-learn
-
-## Contributors
-
-- [Your Name]
-
-Feel free to contribute to this project by suggesting improvements or additional features!
 
 ## License
 
