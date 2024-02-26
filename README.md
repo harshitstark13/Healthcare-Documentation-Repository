@@ -2,13 +2,13 @@
 
 ![_testing-blog_resources_blog_images-2018-06-08-Value-based-Care png](https://github.com/harshitstark13/Healthcare-Documentation-Repository/assets/95651978/4c8f5840-2d09-4238-aac8-d7de46f3cedf)
 
-## About NLP
-
-Natural Language Processing (NLP) is a field of artificial intelligence that focuses on the interaction between computers and humans through natural language. It involves tasks such as text classification, sentiment analysis, machine translation, and more. Data cleaning is a crucial initial step in NLP projects to prepare the text data for analysis and modeling.
-
 ## Data
 
 The "Healthcare Documentation Database" is a concise yet comprehensive collection of medical transcriptions spanning various specialties and patient encounters. Each entry includes a brief description of the medical encounter, categorized by specialty and accompanied by a unique sample name for easy reference.
+
+## About NLP
+
+Natural Language Processing (NLP) is a field of artificial intelligence that focuses on the interaction between computers and humans through natural language. It involves tasks such as text classification, sentiment analysis, machine translation, and more. Data cleaning is a crucial initial step in NLP projects to prepare the text data for analysis and modeling.
 
 ## NLP Data Cleaning
 This repository contains a Jupyter Notebook (`NLP-Cleaning.ipynb`) focusing on the data cleaning process for Natural Language Processing (NLP) tasks. NLP data cleaning is an essential step in text analysis projects as it ensures the quality and consistency of the data, leading to more accurate insights and models.
