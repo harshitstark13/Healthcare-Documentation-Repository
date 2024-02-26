@@ -54,13 +54,29 @@ These NLP cleaning methods collectively help transform raw text data into a clea
 
 To use this notebook, simply clone the repository and run the `NLP-Cleaning.ipynb` notebook in a Jupyter environment. Make sure to install the necessary libraries listed in the notebook's imports section.
 
-## Dependencies
+# Dependencies
 
-- Python 3.x
-- Jupyter Notebook
-- pandas
-- nltk
-- scikit-learn
+## Python 3.x
+
+Python is a high-level, interpreted programming language known for its simplicity and versatility. Python 3.x is the latest version of Python, which includes many improvements and new features compared to Python 2.x. It is widely used for various applications, including data analysis, machine learning, web development, and more.
+
+## Jupyter Notebook
+
+Jupyter Notebook is an open-source web application that allows you to create and share documents containing live code, equations, visualizations, and narrative text. It supports various programming languages, including Python, R, and Julia, making it an ideal tool for interactive computing and data analysis.
+
+## pandas
+
+pandas is a powerful Python library for data manipulation and analysis. It provides data structures and functions for efficiently handling structured data, including importing/exporting data from/to various file formats, cleaning and transforming data, and performing complex operations such as grouping, filtering, and merging datasets.
+
+## nltk
+
+Natural Language Toolkit (NLTK) is a leading platform for building Python programs to work with human language data. It provides easy-to-use interfaces to over 50 corpora and lexical resources, such as WordNet, along with a suite of text processing libraries for tokenization, stemming, lemmatization, parsing, and more. NLTK is widely used in natural language processing (NLP) tasks, including text classification, sentiment analysis, and machine translation.
+
+## scikit-learn
+
+scikit-learn is a popular machine learning library for Python that provides simple and efficient tools for data mining and data analysis. It features various algorithms for classification, regression, clustering, dimensionality reduction, and model evaluation. scikit-learn also provides utilities for preprocessing data, such as scaling, encoding categorical variables, and feature selection. It is widely used in academia and industry for developing and deploying machine learning models.
+
+These dependencies are essential for running the code in the `NLP-Cleaning.ipynb` notebook and performing natural language processing tasks such as text cleaning, tokenization, and document-term matrix creation.
 
 ## License
 
